@@ -23,6 +23,7 @@ body {
     margin: 0 auto;
     text-align: center;
     margin-top: 10vh;
+    filter: drop-shadow(20px 20px 40px hsla(223, 47%, 23%, 0.2));
 }
 
 .wrapper {
